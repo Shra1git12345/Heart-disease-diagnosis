@@ -1,5 +1,5 @@
 # Heart-disease-diagnosis
-decision trees
+ decision trees
 The data lists various tests that were conducted on patients along with some other details of the patients. Now, given the test results and other attributes, suppose you want to predict whether a person has a heart disease or not.
 Please note that:
 
